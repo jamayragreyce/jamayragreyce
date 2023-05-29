@@ -16,3 +16,5 @@
 </div>
 
 [![](https://visitcount.itsvg.in/api?id=jamayragreyce&label=Visitas&color=5&icon=7&pretty=true)](https://visitcount.itsvg.in)
+
+![snake gif](https://github.com/jamayragreyce/jamayragreyce/blob/output/github-contribution-grid-snake.svg)
